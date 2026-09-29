@@ -2,6 +2,9 @@
 
 Одностраничный сайт для тату-студии True OG Tattoo в Путилково.
 
+## Демо
+https://skrimcode.github.io/trueogtattoo/
+
 ## Стек
 - Чистый HTML / CSS / JS без фреймворков и сборки
 - Адаптивная вёрстка (mobile-first, breakpoints 380/560/820/1100/1600/2000)
