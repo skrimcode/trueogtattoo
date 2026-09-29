@@ -1,0 +1,14 @@
+{
+  "name": "True OG Tattoo",
+  "short_name": "True OG",
+  "description": "Тату-студия в Путилково — тату и пирсинг 24/7",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "lang": "ru",
+  "icons": [
+    { "src": "/assets/logo.jpg", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/logo.jpg", "sizes": "512x512", "type": "image/png" }
+  ]
+}
